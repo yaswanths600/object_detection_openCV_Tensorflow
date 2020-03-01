@@ -1,7 +1,7 @@
 
 # made by: p yashwant sai, venkat ramiya
-# contact details: yashwants600@gmail.com
-# note: kindly dont send me any pull request as i have already closed this project and looking to improve it further
+contact details: # yashwants600@gmail.com
+note: kindly dont send me any pull request as i have already closed this project and looking to improve it further
 
 # object_detection_openCV_Tensorflow
 object detection (real-time) using openCV
